@@ -7,3 +7,8 @@ Collection of solution for [Cracking the Coding Interview](https://www.hackerran
 * [Data Structures](#data-structures) 
 * [Algorithms](#algorithms)
 * [Techniques/Concepts](#techniques/concepts)
+
+
+<br>
+
+**NOTE:** PRs and Stars are always welcome :)
