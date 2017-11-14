@@ -10,7 +10,8 @@ class IceCream {
         int flavor; 
         int index;
 
-        IceCream(int flavor, int index) {
+        IceCream(int flavor, int index) 
+        {
             this->flavor = flavor;
             this->index = index;
        }
@@ -18,17 +19,17 @@ class IceCream {
     
 int binarySearch(int first, int last, vector<IceCream> arr, int search)
 {
-    while(first<=last)
+    while(first <= last)
     {
-        int mid=(first+last)/2;
+        int mid = (first + last)/2;
         
-        if(arr[mid].flavor<search)
+        if(arr[mid].flavor < search)
         {
-             first = mid +1;
+            first = mid + 1;
         }
-        else if(arr[mid].flavor>search)
+        else if(arr[mid].flavor > search)
         {
-            last = mid-1;
+            last = mid - 1;
         }
         else 
             return arr[mid].index;   
