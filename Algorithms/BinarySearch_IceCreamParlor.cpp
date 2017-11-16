@@ -1,4 +1,5 @@
 
+// https://www.hackerrank.com/challenges/ctci-ice-cream-parlor
 
 #include <bits/stdc++.h>
 using namespace std;
