@@ -1,5 +1,5 @@
 
-// https://www.hackerrank.com/challenges/ctci-ice-cream-parlor
+// https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem
 
 #include <bits/stdc++.h>
 using namespace std;
