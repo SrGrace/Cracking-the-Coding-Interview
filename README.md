@@ -11,4 +11,4 @@ Collection of solution for [Cracking the Coding Interview](https://www.hackerran
 
 <br>
 
-**NOTE:** PRs and Stars are always welcome :)
+**NOTE:** PRs and Stars are always welcome :sparkles:
